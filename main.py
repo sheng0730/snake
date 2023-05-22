@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 27 17:45:21 2021
-
-@author: Juni Zhu
-"""
-
 import tkinter as tk
 from tkinter.messagebox import showinfo
 import random
